@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:simple_block",
+    "config": {
+      "to_place": {
+        "type": "minecraft:weighted_state_provider",
+        "entries": [
+          {
+            "weight": 4,
+            "data": {
+              "Name": "minecraft:amethyst_cluster",
+              "Properties": {
+                "facing": "up",
+                "waterlogged": "false"
+              }
+            }
+          }
+        ]
+      },
+      "place_on": [
+        {
+          "Name": "minecraft:budding_amethyst"
+        }
+      ],
+      "place_in": [],
+      "place_under": []
+    }
+  }

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      "minecraft:ocean/snowpatch",
+      "minecraft:ocean/granite",
+      "minecraft:ocean/corase"
+    ]
+  }
+}
