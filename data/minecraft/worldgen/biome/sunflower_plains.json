@@ -27,41 +27,8 @@
       "minecraft:lake_lava"
     ],
     [
-      "minecraft:amegeode/tiny",
-      "minecraft:amegeode/mini",
-      "minecraft:amegeode/small",
-      "minecraft:amegeode/smallish",
-      "minecraft:amegeode/medium",
-      "minecraft:amegeode/big",
-      "minecraft:amegeode/huge",
-      "minecraft:amegeode/massive",
-      
-      "minecraft:coppergeode/tiny",
-      "minecraft:coppergeode/mini",
-      "minecraft:coppergeode/small",
-      "minecraft:coppergeode/smallish",
-      "minecraft:coppergeode/medium",
-      "minecraft:coppergeode/big",
-      "minecraft:coppergeode/huge",
-      "minecraft:coppergeode/massive",
-
-      "minecraft:goldgeode/tiny",
-      "minecraft:goldgeode/mini",
-      "minecraft:goldgeode/small",
-      "minecraft:goldgeode/smallish",
-      "minecraft:goldgeode/medium",
-      "minecraft:goldgeode/big",
-      "minecraft:goldgeode/huge",
-      "minecraft:goldgeode/massive",
-
-      "minecraft:irongeode/tiny",
-      "minecraft:irongeode/mini",
-      "minecraft:irongeode/small",
-      "minecraft:irongeode/smallish",
-      "minecraft:irongeode/medium",
-      "minecraft:irongeode/big",
-      "minecraft:irongeode/huge",
-      "minecraft:irongeode/massive"
+      "minecraft:amethyst_geode",
+      "minecraft:large_dripstone"
     ],
     [
       "minecraft:monster_room"
@@ -95,7 +62,9 @@
     ],
     [
       "minecraft:rare_dripstone_cluster",
-      "minecraft:rare_small_dripstone"
+      "minecraft:rare_small_dripstone",
+      "minecraft:dripstone_cluster",
+      "minecraft:small_dripstone"
     ],
     [
       "minecraft:patch_tall_grass_2",
@@ -104,6 +73,12 @@
       "minecraft:plain_vegetation",
       "minecraft:flower_plain_decorated",
       "minecraft:patch_grass_plain",
+      "minecraft:lush_caves_ceiling_vegetation",
+      "minecraft:cave_vines",
+      "minecraft:lush_caves_clay",
+      "minecraft:lush_caves_vegetation",
+      "minecraft:rooted_azalea_trees",
+      "minecraft:spore_blossom",
       "minecraft:patch_sugar_cane",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",

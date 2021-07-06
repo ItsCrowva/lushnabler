@@ -103,6 +103,10 @@
     [
       "minecraft:prototype_glow_lichen",
       "minecraft:trees_water",
+      "minecraft:kelpcave/cavekelp",
+      "minecraft:kelpcave/cavekelpmiddle",
+      "minecraft:kelpcave/cavekelphat",
+      "minecraft:kelpcave/cavegotdrip",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
       "minecraft:brown_mushroom_normal",

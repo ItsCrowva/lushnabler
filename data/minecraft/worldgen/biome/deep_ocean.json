@@ -104,12 +104,21 @@
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
+      "minecraft:kelpcave/cavekelp",
+      "minecraft:kelpcave/cavekelpmiddle",
+      "minecraft:kelpcave/cavekelphat",
+      "minecraft:kelpcave/cavegotdrip",
       "minecraft:patch_pumpkin",
       "minecraft:prototype_spring_water",
       "minecraft:spring_lava",
       "minecraft:seagrass_deep",
       "minecraft:seagrass_simple",
-      "minecraft:kelp_cold"
+      "minecraft:kelp_cold",
+      "minecraft:ocean/floor",
+      "minecraft:ocean/floor1",
+      "minecraft:ocean/floor2",
+      "minecraft:ocean/roof",
+      "minecraft:ocean/clay"
     ],
     [
       "minecraft:freeze_top_layer"

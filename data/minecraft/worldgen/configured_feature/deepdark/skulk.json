@@ -5,7 +5,7 @@
       "type": "minecraft:weighted_state_provider",
       "entries": [
         {
-          "weight": 1,
+          "weight": 20,
           "data": {
             "Name": "minecraft:sculk_sensor",
             "Properties": {
@@ -16,7 +16,7 @@
           }
         },
         {
-          "weight": 99,
+          "weight": 80,
           "data": {
             "Name": "minecraft:air",
             "Properties": {
