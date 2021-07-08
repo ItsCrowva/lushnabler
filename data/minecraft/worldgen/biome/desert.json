@@ -95,7 +95,9 @@
       "minecraft:prototype_underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "customore:diablock",
+      "customore:iroblock"
     ],
     [
       "minecraft:rare_dripstone_cluster",

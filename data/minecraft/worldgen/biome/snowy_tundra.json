@@ -10,7 +10,9 @@
     "sky_color": 8364543,
     "fog_color": 12638463,
     "water_color": 4159204,
-    "water_fog_color": 329011
+    "water_fog_color": 329011,
+    "grass_color": 16777215,
+    "foliage_color": 16777215
   },
   "surface_builder": "minecraft:grass",
   "carvers": {
@@ -99,6 +101,13 @@
     ],
     [
       "minecraft:trees_snowy",
+      "minecraft:prototype_glow_lichen",
+      "minecraft:snowcave/icegrasspatch",
+      "minecraft:snowcave/iceceiling",
+      "minecraft:snowcave/lushvines",
+      "minecraft:snowcave/iceclay",
+      "minecraft:rootedazalea",
+      "minecraft:spore_blossom",
       "minecraft:classic_vines_cave_feature"
     ],
     [

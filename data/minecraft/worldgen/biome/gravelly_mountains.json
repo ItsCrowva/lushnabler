@@ -27,41 +27,7 @@
       "minecraft:lake_lava"
     ],
     [
-      "minecraft:amegeode/tiny",
-      "minecraft:amegeode/mini",
-      "minecraft:amegeode/small",
-      "minecraft:amegeode/smallish",
-      "minecraft:amegeode/medium",
-      "minecraft:amegeode/big",
-      "minecraft:amegeode/huge",
-      "minecraft:amegeode/massive",
-      
-      "minecraft:coppergeode/tiny",
-      "minecraft:coppergeode/mini",
-      "minecraft:coppergeode/small",
-      "minecraft:coppergeode/smallish",
-      "minecraft:coppergeode/medium",
-      "minecraft:coppergeode/big",
-      "minecraft:coppergeode/huge",
-      "minecraft:coppergeode/massive",
-
-      "minecraft:goldgeode/tiny",
-      "minecraft:goldgeode/mini",
-      "minecraft:goldgeode/small",
-      "minecraft:goldgeode/smallish",
-      "minecraft:goldgeode/medium",
-      "minecraft:goldgeode/big",
-      "minecraft:goldgeode/huge",
-      "minecraft:goldgeode/massive",
-
-      "minecraft:irongeode/tiny",
-      "minecraft:irongeode/mini",
-      "minecraft:irongeode/small",
-      "minecraft:irongeode/smallish",
-      "minecraft:irongeode/medium",
-      "minecraft:irongeode/big",
-      "minecraft:irongeode/huge",
-      "minecraft:irongeode/massive"
+      "minecraft:amethyst_geode"
     ],
     [
       "minecraft:monster_room"
@@ -239,5 +205,5 @@
   "temperature": 0.2,
   "downfall": 0.3,
   "category": "extreme_hills",
-  "depth": 1.2
+  "depth": 6.0
 }
