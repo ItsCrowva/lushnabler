@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:overworld",
+    "generator": {
+      "type": "minecraft:noise",
+      "seed": -1892046013,
+      "settings": "minecraft:overworld",
+      "biome_source": {
+        "type": "minecraft:checkerboard",
+        "scale": 1,
+        "biomes": [
+          "minecraft:end_barrens",
+          "minecraft:basalt_deltas",
+          "minecraft:savanna",
+          "minecraft:shattered_savanna_plateau",
+          "minecraft:shattered_savanna",
+          "minecraft:jungle",
+          "minecraft:desert",
+          "minecraft:warm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:ocean",
+          "minecraft:snowy_tundra",
+          "minecraft:badlands",
+          "minecraft:plains"
+        ]
+      }
+    }
+  }
