@@ -98,10 +98,7 @@
     ],
     [
       "minecraft:prototype_glow_lichen",
-      "minecraft:kelpcave/cavekelp",
-      "minecraft:kelpcave/cavekelpmiddle",
-      "minecraft:kelpcave/cavekelphat",
-      "minecraft:kelpcave/cavegotdrip",
+
       "minecraft:trees_water",
       "minecraft:flower_default",
       "minecraft:patch_grass_badlands",
@@ -113,12 +110,8 @@
       "minecraft:spring_lava",
       "minecraft:warm_ocean_vegetation",
       "minecraft:seagrass_warm",
-      "minecraft:sea_pickle",
-      "minecraft:ocean/floor",
-      "minecraft:ocean/floor1",
-      "minecraft:ocean/floor2",
-      "minecraft:ocean/roof",
-      "minecraft:ocean/clay"
+      "minecraft:sea_pickle"
+
     ],
     [
       "minecraft:freeze_top_layer"
