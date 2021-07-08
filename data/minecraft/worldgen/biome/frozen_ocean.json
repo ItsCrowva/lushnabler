@@ -114,12 +114,7 @@
       "minecraft:kelpcave/cavegotdrip",
       "minecraft:patch_pumpkin",
       "minecraft:prototype_spring_water",
-      "minecraft:spring_lava",
-      "minecraft:ocean/floor",
-      "minecraft:ocean/floor1",
-      "minecraft:ocean/floor2",
-      "minecraft:ocean/roof",
-      "minecraft:ocean/clay"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:freeze_top_layer"
