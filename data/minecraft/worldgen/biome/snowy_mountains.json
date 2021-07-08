@@ -108,10 +108,6 @@
     [
       "minecraft:trees_snowy",
       "minecraft:prototype_glow_lichen",
-      "minecraft:snowcave/icegrasspatch",
-      "minecraft:snowcave/iceceiling",
-      "minecraft:snowcave/lushvines",
-      "minecraft:snowcave/iceclay",
       "minecraft:rootedazalea",
       "minecraft:spore_blossom",
       "minecraft:classic_vines_cave_feature"

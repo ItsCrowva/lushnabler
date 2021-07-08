@@ -110,12 +110,7 @@
       "minecraft:prototype_spring_water",
       "minecraft:spring_lava",
       "minecraft:patch_melon",
-      "minecraft:prototype_vines",
-      "minecraft:jungle/floor",
-      "minecraft:jungle/floor1",
-      "minecraft:jungle/floor2",
-      "minecraft:jungle/roof",
-      "minecraft:jungle/clay"
+      "minecraft:prototype_vines"
     ],
     [
       "minecraft:freeze_top_layer"
