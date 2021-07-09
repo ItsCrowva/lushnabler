@@ -4,7 +4,7 @@
     "decorator": {
       "type": "minecraft:chance",
       "config": {
-        "chance": 112
+        "chance": 118
       }
     },
     "feature": {
@@ -44,13 +44,13 @@
                   "inner_layer_provider": {
                     "type": "minecraft:simple_state_provider",
                     "state": {
-                      "Name": "minecraft:amethyst_block"
+                      "Name": "minecraft:netherrack"
                     }
                   },
                   "alternate_inner_layer_provider": {
                     "type": "minecraft:simple_state_provider",
                     "state": {
-                      "Name": "minecraft:budding_amethyst"
+                      "Name": "minecraft:crimson_nylium"
                     }
                   },
                   "middle_layer_provider": {
@@ -67,32 +67,12 @@
                   },
                   "inner_placements": [
                     {
-                      "Name": "minecraft:small_amethyst_bud",
-                      "Properties": {
-                        "waterlogged": "false",
-                        "facing": "up"
-                      }
+                      "Name": "minecraft:shroomlight",
+                      "Properties": {}
                     },
                     {
-                      "Name": "minecraft:medium_amethyst_bud",
-                      "Properties": {
-                        "waterlogged": "false",
-                        "facing": "up"
-                      }
-                    },
-                    {
-                      "Name": "minecraft:large_amethyst_bud",
-                      "Properties": {
-                        "waterlogged": "false",
-                        "facing": "up"
-                      }
-                    },
-                    {
-                      "Name": "minecraft:amethyst_cluster",
-                      "Properties": {
-                        "waterlogged": "false",
-                        "facing": "up"
-                      }
+                      "Name": "minecraft:crimson_fungus",
+                      "Properties": {}
                     }
                   ],
                   "cannot_replace": "minecraft:features_cannot_replace",
@@ -100,9 +80,9 @@
                 },
                 "layers": {
                   "filling": 0.8,
-                  "inner_layer": 1.0,
-                  "middle_layer": 1.2,
-                  "outer_layer": 1.4
+                  "inner_layer": 1.2,
+                  "middle_layer": 1.6,
+                  "outer_layer": 2.0
                 },
                 "crack": {
                   "generate_crack_chance": 0.95,
