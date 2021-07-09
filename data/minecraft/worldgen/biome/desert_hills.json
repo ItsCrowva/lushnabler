@@ -60,7 +60,12 @@
       "minecraft:irongeode/medium",
       "minecraft:irongeode/big",
       "minecraft:irongeode/huge",
-      "minecraft:irongeode/massive"
+      "minecraft:irongeode/massive",
+
+      "minecraft:nethereode/tiny",
+      "minecraft:nethereode/small",
+      "minecraft:nethereode/medium",
+      "minecraft:nethereode/big"
     ],
     [
       "minecraft:monster_room"

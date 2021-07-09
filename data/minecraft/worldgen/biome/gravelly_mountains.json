@@ -27,7 +27,12 @@
       "minecraft:lake_lava"
     ],
     [
-      "minecraft:amethyst_geode"
+      "minecraft:amethyst_geode",
+
+      "minecraft:nethereode/tiny",
+      "minecraft:nethereode/small",
+      "minecraft:nethereode/medium",
+      "minecraft:nethereode/big"
     ],
     [
       "minecraft:monster_room"

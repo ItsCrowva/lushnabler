@@ -61,7 +61,12 @@
       "minecraft:irongeode/big",
       "minecraft:irongeode/huge",
       "minecraft:irongeode/massive",
-      "minecraft:large_dripstone"
+      "minecraft:large_dripstone",
+
+      "minecraft:nethereode/tiny",
+      "minecraft:nethereode/small",
+      "minecraft:nethereode/medium",
+      "minecraft:nethereode/big"
     ],
     [
       "minecraft:prototype_fossil_upper",
