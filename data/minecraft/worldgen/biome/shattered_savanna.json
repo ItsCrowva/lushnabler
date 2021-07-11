@@ -95,7 +95,9 @@
     ],
     [
       "minecraft:rare_dripstone_cluster",
-      "minecraft:rare_small_dripstone"
+      "minecraft:rare_small_dripstone",
+      "minecraft:dripstone_cluster",
+      "minecraft:small_dripstone"
     ],
     [
       "minecraft:prototype_glow_lichen",
@@ -107,12 +109,7 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:prototype_spring_water",
-      "minecraft:spring_lava",
-      "minecraft:shsavanna/floor",
-      "minecraft:shsavanna/floor1",
-      "minecraft:shsavanna/floor2",
-      "minecraft:shsavanna/roof",
-      "minecraft:shsavanna/clay"
+      "minecraft:spring_lava"
     ],
     [
       "minecraft:freeze_top_layer"
