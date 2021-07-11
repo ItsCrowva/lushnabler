@@ -92,12 +92,7 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "customore:diablock",
-      "customore:iroblock",
-      "grain:snowtopowder",
-      "grain:snowgen",
-      "grain:powder_snow",
-      "grain:packedicegen"
+      "minecraft:powder"
     ],
     [
       "minecraft:rare_dripstone_cluster",

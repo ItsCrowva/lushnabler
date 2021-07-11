@@ -59,12 +59,7 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "minecraft:prototype_ore_emerald",
-      "customore:diablock",
-      "customore:iroblock",
-      "grain:snowtopowder",
-      "grain:snowgen",
-      "grain:powder_snow",
-      "grain:packedicegen"
+      "minecraft:powder"
 
     ],
     [
