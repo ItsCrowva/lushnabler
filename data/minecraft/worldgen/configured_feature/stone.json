@@ -4,7 +4,7 @@
       "decorator": {
         "type": "minecraft:count",
         "config": {
-          "count": 40
+          "count": 2
         }
       },
       "feature": {
@@ -40,13 +40,10 @@
                     {
                       "target": {
                         "predicate_type": "minecraft:block_match",
-                        "block": "minecraft:stone"
+                        "block": "minecraft:grass_block"
                       },
                       "state": {
-                        "Name": "minecraft:grass_block",
-                        "Properties": {
-                          "snowy": "false"
-                        }
+                        "Name": "minecraft:stone"
                       }
                     }
                   ]
