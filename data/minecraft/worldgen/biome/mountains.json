@@ -60,7 +60,7 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "minecraft:prototype_ore_emerald",
-      "minecraft:powder"
+      "grain:powder"
 
     ],
     [
@@ -85,7 +85,6 @@
   ],
   "starts": [
     "minecraft:mineshaft",
-    "minecraft:snowcave",
     "minecraft:stronghold"
   ],
   "spawners": {

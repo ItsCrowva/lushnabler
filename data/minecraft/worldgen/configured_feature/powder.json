@@ -4,7 +4,7 @@
     "decorator": {
       "type": "minecraft:count",
       "config": {
-        "count": 1
+        "count": 4
       }
     },
     "feature": {
@@ -23,10 +23,10 @@
                 "height": {
                   "type": "minecraft:uniform",
                   "min_inclusive": {
-                    "above_bottom": 60
+                    "absolute": 100
                   },
                   "max_inclusive": {
-                    "absolute": 300
+                    "absolute": 150
                   }
                 }
               }
@@ -34,22 +34,13 @@
             "feature": {
               "type": "minecraft:ore",
               "config": {
-                "size": 1,
+                "size": 60,
                 "discard_chance_on_air_exposure": 0,
                 "targets": [
                   {
                     "target": {
-                      "predicate_type": "minecraft:block_match",
-                      "block": "minecraft:snow_block"
-                    },
-                    "state": {
-                      "Name": "minecraft:powder_snow"
-                    }
-                  },
-                  {
-                    "target": {
-                      "predicate_type": "minecraft:block_match",
-                      "block": "minecraft:grass_block"
+                      "predicate_type": "minecraft:tag_match",
+                      "tag": "minecraft:snowshot"
                     },
                     "state": {
                       "Name": "minecraft:powder_snow"
