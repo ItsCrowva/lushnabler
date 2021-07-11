@@ -4,7 +4,7 @@
     "decorator": {
       "type": "minecraft:count",
       "config": {
-        "count": 20
+        "count": 4
       }
     },
     "feature": {
@@ -23,31 +23,30 @@
                 "height": {
                   "type": "minecraft:uniform",
                   "min_inclusive": {
-                    "above_bottom": 0
+                    "absolute": 100
                   },
                   "max_inclusive": {
-                    "absolute": 60
+                    "absolute": 250
                   }
                 }
               }
             },
             "feature": {
-              "type": "minecraft:decorated",
+              "type": "minecraft:ore",
               "config": {
-                "decorator": {
-                  "type": "minecraft:cave_surface",
-                  "config": {
-                    "surface": "floor",
-                    "floor_to_ceiling_search_range": 12
+                "size": 40,
+                "discard_chance_on_air_exposure": 0,
+                "targets": [
+                  {
+                    "target": {
+                      "predicate_type": "minecraft:tag_match",
+                      "tag": "minecraft:snowshot"
+                    },
+                    "state": {
+                      "Name": "minecraft:powder_snow"
+                    }
                   }
-                },
-                "feature": {
-                  "type": "minecraft:random_boolean_selector",
-                  "config": {
-                    "feature_false": "minecraft:clay_pool_with_dripleaves",
-                    "feature_true": "minecraft:clay_with_dripleaves"
-                  }
-                }
+                ]
               }
             }
           }

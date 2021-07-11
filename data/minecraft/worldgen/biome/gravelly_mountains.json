@@ -58,7 +58,8 @@
       "minecraft:disk_sand",
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
-      "minecraft:prototype_ore_emerald"
+      "minecraft:prototype_ore_emerald",
+      "minecraft:powder"
     ],
     [
       "minecraft:rare_dripstone_cluster",

@@ -4,7 +4,7 @@
       "decorator": {
         "type": "minecraft:count",
         "config": {
-          "count": 8
+          "count": 2
         }
       },
       "feature": {
@@ -23,38 +23,30 @@
                   "height": {
                     "type": "minecraft:uniform",
                     "min_inclusive": {
-                      "above_bottom": 0
+                      "above_bottom": 50
                     },
                     "max_inclusive": {
-                      "absolute": 60
+                      "absolute": 200
                     }
                   }
                 }
               },
               "feature": {
-                "type": "minecraft:decorated",
+                "type": "minecraft:ore",
                 "config": {
-                  "decorator": {
-                    "type": "minecraft:cave_surface",
-                    "config": {
-                      "surface": "ceiling",
-                      "floor_to_ceiling_search_range": 12
-                    }
-                  },
-                  "feature": {
-                    "type": "minecraft:simple_block",
-                    "config": {
-                      "to_place": {
-                        "type": "minecraft:simple_state_provider",
-                        "state": {
-                          "Name": "minecraft:spore_blossom"
-                        }
+                  "size": 9,
+                  "discard_chance_on_air_exposure": 0,
+                  "targets": [
+                    {
+                      "target": {
+                        "predicate_type": "minecraft:block_match",
+                        "block": "minecraft:grass_block"
                       },
-                      "place_on": [],
-                      "place_in": [],
-                      "place_under": []
+                      "state": {
+                        "Name": "minecraft:stone"
+                      }
                     }
-                  }
+                  ]
                 }
               }
             }
@@ -63,3 +55,4 @@
       }
     }
   }
+  

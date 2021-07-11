@@ -119,7 +119,6 @@
   ],
   "starts": [
     "minecraft:igloo",
-    "minecraft:snowcave",
     "minecraft:mineshaft",
     "minecraft:stronghold",
     "minecraft:ruined_portal"
