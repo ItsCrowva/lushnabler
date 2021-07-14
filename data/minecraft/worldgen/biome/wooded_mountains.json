@@ -57,7 +57,8 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "minecraft:prototype_ore_emerald",
-      "minecraft:powder"
+      "minecraft:powder",
+      "deepdark:sculk"
     ],
     [
       "minecraft:rare_dripstone_cluster",
