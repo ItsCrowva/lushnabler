@@ -1,5 +1,7 @@
 {
   "scale": 0.05,
+  "test": 0.1,
+  // Test
   "effects": {
     "mood_sound": {
       "sound": "minecraft:ambient.cave",
@@ -91,9 +93,7 @@
       "minecraft:prototype_underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "customore:diablock",
-      "customore:iroblock"
+      "minecraft:disk_gravel"
     ],
     [
       "minecraft:rare_dripstone_cluster",
@@ -120,7 +120,6 @@
       "minecraft:classic_vines_cave_feature"
     ],
     [
-      "minecraft:freeze_top_layer"
     ]
   ],
   "starts": [

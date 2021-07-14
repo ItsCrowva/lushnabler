@@ -91,9 +91,7 @@
       "minecraft:prototype_underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel",
-      "customore:diablock",
-      "customore:iroblock"
+      "minecraft:disk_gravel"
     ],
     [
       "minecraft:rare_dripstone_cluster",
@@ -113,7 +111,6 @@
       "minecraft:spring_lava"
     ],
     [
-      "minecraft:freeze_top_layer"
     ]
   ],
   "starts": [
