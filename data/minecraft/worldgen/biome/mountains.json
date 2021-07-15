@@ -60,8 +60,8 @@
       "minecraft:disk_clay",
       "minecraft:disk_gravel",
       "minecraft:prototype_ore_emerald",
-      "grain:powder",
-      "deepdark:sculk"
+      "minecraft:powder",
+      "minecraft:sculk"
 
     ],
     [
