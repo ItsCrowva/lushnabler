@@ -44,8 +44,8 @@
                 "feature": {
                   "type": "minecraft:random_boolean_selector",
                   "config": {
-                    "feature_false": "minecraft:clay_pool_with_dripleaves",
-                    "feature_true": "minecraft:clay_with_dripleaves"
+                    "feature_false": "minecraft:default/blueicedrip",
+                    "feature_true": "minecraft:default/blueicedrip"
                   }
                 }
               }

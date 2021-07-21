@@ -1,66 +1,67 @@
 {
-  "config": {
-    "feature": {
-      "config": {
-        "feature": {
-          "config": {
-            "feature": {
-              "config": {
-                "targets": [
-                  {
-                    "target": {
-                      "tag": "minecraft:stone_ore_replaceables",
-                      "predicate_type": "minecraft:tag_match"
-                    },
-                    "state": {
-                      "Name": "minecraft:diamond_ore"
-                    }
-                  },
-                  {
-                    "target": {
-                      "tag": "minecraft:deepslate_ore_replaceables",
-                      "predicate_type": "minecraft:tag_match"
-                    },
-                    "state": {
-                      "Name": "minecraft:deepslate_diamond_ore"
-                    }
-                  }
-                ],
-                "size": 4,
-                "discard_chance_on_air_exposure": 0.5
-              },
-              "type": "minecraft:ore"
-            },
-            "decorator": {
-              "config": {
-                "height": {
-                  "min_inclusive": {
-                    "above_bottom": -80
-                  },
-                  "max_inclusive": {
-                    "above_bottom": 80
-                  },
-                  "type": "minecraft:trapezoid"
-                }
-              },
-              "type": "minecraft:range"
-            }
-          },
-          "type": "minecraft:decorated"
-        },
-        "decorator": {
-          "config": {},
-          "type": "minecraft:square"
+    "type": "minecraft:decorated",
+    "config": {
+      "decorator": {
+        "type": "minecraft:count",
+        "config": {
+          "count": 6
         }
       },
-      "type": "minecraft:decorated"
-    },
-    "decorator": {
-      "config": {
-        "count": 6
-      },
-      "type": "minecraft:count"
+      "feature": {
+        "type": "minecraft:decorated",
+        "config": {
+          "decorator": {
+            "type": "minecraft:square",
+            "config": {}
+          },
+          "feature": {
+            "type": "minecraft:decorated",
+            "config": {
+              "decorator": {
+                "type": "minecraft:range",
+                "config": {
+                  "height": {
+                    "type": "minecraft:trapezoid",
+                    "min_inclusive": {
+                      "above_bottom": -80
+                    },
+                    "max_inclusive": {
+                      "above_bottom": 80
+                    }
+                  }
+                }
+              },
+              "feature": {
+                "type": "minecraft:ore",
+                "config": {
+                  "size": 5,
+                  "discard_chance_on_air_exposure": 0.0,
+                  "targets": [
+                    {
+                      "target": {
+                        "predicate_type": "minecraft:tag_match",
+                        "tag": "minecraft:stone_ore_replaceables"
+                      },
+                      "state": {
+                        "Name": "minecraft:diamond_ore"
+                      }
+                    },
+                    {
+                      "target": {
+                        "predicate_type": "minecraft:tag_match",
+                        "tag": "minecraft:deepslate_ore_replaceables"
+                      },
+                      "state": {
+                        "Name": "minecraft:deepslate_diamond_ore"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
     }
-  },
-  "type": "minecraft:decorated"
-}
+  }
+  
