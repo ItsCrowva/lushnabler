@@ -28,7 +28,7 @@
                     "max_inclusive": {
                       "absolute": 20
                     },
-                    "plateau": 10
+                    "plateau": 1
                   }
                 }
               },
