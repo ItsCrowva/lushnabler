@@ -13,3 +13,5 @@ tellraw @s {"text":"All Deep Dark Generation Biomes:","color":"blue"}
 execute as @s run locatebiome minecraft:mountain
 execute as @s run locatebiome minecraft:gravelly_mountain
 execute as @s run locatebiome minecraft:wooded_mountain
+tellraw @s {"text":"All Kelp Cave Biomes:","color":"#00DD00"}
+execute as @s run locatebiome minecraft:ocean

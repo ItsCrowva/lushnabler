@@ -90,7 +90,10 @@
       "minecraft:prototype_underwater_magma",
       "minecraft:disk_sand",
       "minecraft:disk_clay",
-      "minecraft:disk_gravel"
+      "minecraft:disk_gravel",
+      "kelpcave:kelp1",
+      "kelpcave:kelp2",
+      "kelpcave:kelp3"
     ],
     [
       "minecraft:rare_dripstone_cluster",
