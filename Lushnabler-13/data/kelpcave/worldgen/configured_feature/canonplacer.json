@@ -1,0 +1,74 @@
+{
+    "type": "minecraft:decorated",
+    "config": {
+      "decorator": {
+        "type": "minecraft:count_extra",
+        "config": {
+          "count": 8,
+          "extra_count": 2,
+          "extra_chance": 0
+        }
+      },
+      "feature": {
+        "type": "minecraft:decorated",
+        "config": {
+          "decorator": {
+            "type": "minecraft:square",
+            "config": {}
+          },
+          "feature": {
+            "type": "minecraft:decorated",
+            "config": {
+              "decorator": {
+                "type": "minecraft:count_noise_biased",
+                "config": {
+                  "noise_to_count_ratio": 1,
+                  "noise_factor": 184,
+                  "noise_offset": 0.09
+                }
+              },
+              "feature": {
+                "type": "minecraft:decorated",
+                "config": {
+                  "decorator": {
+                    "type": "minecraft:count_noise_biased",
+                    "config": {
+                      "noise_to_count_ratio": -1,
+                      "noise_factor": 185,
+                      "noise_offset": -0.05
+                    }
+                  },
+                  "feature": {
+                    "type": "minecraft:decorated",
+                    "config": {
+                      "decorator": {
+                        "type": "minecraft:count_noise_biased",
+                        "config": {
+                          "noise_to_count_ratio": 160,
+                          "noise_factor": -189,
+                          "noise_offset": -0.05
+                        }
+                      },
+                      "feature": {
+                        "type": "minecraft:decorated",
+                        "config": {
+                          "decorator": {
+                            "type": "minecraft:count",
+                            "config": {
+                              "count": 4
+                            }
+                          },
+                          "feature": "kelpcave:canon1"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  

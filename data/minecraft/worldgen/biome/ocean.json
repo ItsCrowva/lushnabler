@@ -93,7 +93,8 @@
       "minecraft:disk_gravel",
       "kelpcave:kelp1",
       "kelpcave:kelp2",
-      "kelpcave:kelp3"
+      "kelpcave:kelp3",
+      "kelpcave:canonplacer"
     ],
     [
       "minecraft:rare_dripstone_cluster",
